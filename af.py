@@ -4,7 +4,7 @@
 ###########################################
 #CARA PENGGUNAAN
 #INSTALL PYTHON
-#RUN CLI : python IDSYSTEM404adminpanel.py
+#RUN CLI : python af.py
 ###########################################
 
 from urllib2 import Request, urlopen, URLError, HTTPError
